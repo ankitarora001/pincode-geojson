@@ -5,7 +5,7 @@
         "name": "Vijayawada"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
